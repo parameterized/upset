@@ -1,5 +1,5 @@
 {
-    "pixelbyte.love2d.srcDir": "upset",
+    "pixelbyte.love2d.srcDir": "love2d",
     "Lua.runtime.version": "LuaJIT",
     "Lua.runtime.special": {
         "love.filesystem.load": "loadfile"
@@ -10,5 +10,4 @@
     "[python]": {
         "editor.defaultFormatter": "ms-python.black-formatter"
     },
-    "python.formatting.provider": "none"
 }
